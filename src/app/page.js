@@ -17,7 +17,7 @@ export default function Home() {
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
-        Footer component@copyrright 2023
+        Footer component
       </div>
     </main>
   )
